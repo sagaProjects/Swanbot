@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://graph.org/file/b72240a129e6dbc3e54a8.jpg">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>Sensei - UserBot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
@@ -21,41 +21,12 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
 [![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
 ----
-
-# Deploy
-- [Heroku](#deploy-to-heroku)
-- [Okteto](#deploy-to-okteto)
-- [Local Machine](#deploy-locally)
-
 # Documentation 
 [![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
 
-# Tutorial 
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=0wAV7pUzhDQ)
 
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
-
-## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
-
-## Deploy to Okteto
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
-
-[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
-
-## Deploy Locally
-- [Traditional Method](#local-deploy---traditional-method)
-- [Easy Method](#local-deploy---easy-method)
-- [Ultroid CLI](#ultroid-cli)
-
-### Local Deploy - Easy Method
-- Linux - `wget -O locals.py https://git.io/JY9UM && python3 locals.py`
-- Windows - `cd desktop ; wget https://git.io/JY9UM -o locals.py ; python locals.py`
-- Termux - `wget -O install-termux https://tiny.ultroid.tech/termux && bash install-termux`
-
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
@@ -131,6 +102,9 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 # Credits
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
+* [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls) 
+<h3 align="left"> 𝐍𝐎𝐓𝐄𝐒!!!
 
-> Made with 💕 by [@TeamUltroid](https://t.me/TeamUltroid).    
+
+THIS IS THE USERBOT REPO THAT I CLONE BECAUSE OF FROM
+<a href="https://github.com/TeamUltroid/Ultroid"> Ultroid </a> |
