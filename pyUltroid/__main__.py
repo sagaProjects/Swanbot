@@ -62,7 +62,7 @@ def main():
 
     suc_msg = """
             ----------------------------------------------------------------------
-                Sensei has been deployed! Visit @scattersuport for updates!!
+                Sensei has been deployed! Visit @minusc0dde for updates!!
             ----------------------------------------------------------------------
     """
 
