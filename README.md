@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/b72240a129e6dbc3e54a8.jpg">
 </p>
 <h1 align="center">
-  <b>Sensei - UserBot</b>
+<b>✨Sᴡᴀɴ Bot✨</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
